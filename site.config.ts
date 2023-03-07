@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Template',
-  domain: '',
+  name: 'Template',
+  domain: 'https://nextjs-notion-template-qdez.vercel.app/',
   author: 'Christopher Celaya',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Website',
+  description: 'Personal Dashboard',
 
   // social usernames (optional)
   twitter: 'Im_Mr_Chris',
